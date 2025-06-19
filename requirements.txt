@@ -1,0 +1,4 @@
+ultralytics
+opencv-python
+pygame
+python-telegram-bot==13.7
